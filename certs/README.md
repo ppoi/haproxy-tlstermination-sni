@@ -1,0 +1,1 @@
+put wildcard server cert(`cert.pem`) and key(`cert.pem.key`)
